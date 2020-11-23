@@ -8,3 +8,4 @@ However, since financial institutions are required to provide explanations to cl
 
 The dataset contains HELOC applications made by real homeowners provided by FICO, in which RiskPerformance is the target binary variable. The label “Good” indicates that clients made payments without being more than 90 days overdue, whereas “Bad” indicates that they made payments 90 days past due or worse at least once over a period of 24 months since the credit account was opened. All the other predictor variables are quantitative or categorical variables representing a specific kind of trade feature of the homeowners. 
 
+![Screenshot](Picture1.png)
